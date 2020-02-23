@@ -4,7 +4,6 @@ This is a starting repository for [Django: ORM](https://dvmn.org/modules/django-
 
 ### How to install
 
-```
 Python3 should be already installed. 
 Then use `pip` (or `pip3`, if there is a conflict with Python2) to install dependencies:
 ```

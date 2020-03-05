@@ -1,6 +1,6 @@
 # Django-ORM-standalone
 
-This is a starting repository for [Django: ORM](https://dvmn.org/modules/django-orm/) module on [dvmn.org](https://dvmn.org/). Script in the repo filters through the DB and shows data from one of the objects in the DB.
+This is a starting repository for [Django: ORM](https://dvmn.org/modules/django-orm/) module on [dvmn.org](https://dvmn.org/). It is mostly a sandbox to test scripts for [jango-orm-watching-storage](https://github.com/mikhaildruzhinin/django-orm-watching-storage) repo.
 
 ### How to install
 
